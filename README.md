@@ -24,3 +24,5 @@ Here is a description of data:
 - success – outcome (success - 1, no - 0)
 - platform – platform
 - time – time in Unix format
+
+Project itself [GH_miinproject_2](https://github.com/Horiz0nT/MiniProject_2/blob/main/GH_miniproject_2.ipynb)
